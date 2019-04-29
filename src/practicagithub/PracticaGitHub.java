@@ -17,6 +17,7 @@ public class PracticaGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola estamos en el inicio");
+        System.out.println("Y ahora estamos en rama fix, modificado");
     }
     
 }
